@@ -1,0 +1,14 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+```{r}
+1 + 1
+```
+
+```{r}
+xaringanExtra::embed_xaringan(url = "URL of your presentation",
+                              ratio = "16:9")
+```
